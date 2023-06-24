@@ -1,0 +1,43 @@
+! name: EV/PHEV World
+! description: Focused information about electric vehicles and plug-in electric vehicles. Currently prioritizing sources written in English.
+! public: true
+! author: Tumblefox
+
+$boost=2,site=reddit.com
+$boost=2,site=*.gov
+
+$boost=3,site=plugshare.com
+$boost=3,site=speakev.com
+$boost=3,site=insideevsforum.com
+$boost=3,site=diyelectriccar.com
+$boost=3,site=electrifying.com
+$boost=3,site=mynissanleaf.com
+$boost=3,site=myvwegolf.com
+$boost=3,site=abetterrouteplanner.com
+$boost=3,site=gm-volt.com
+$boost=3,site=chevybolt.org
+$boost=3,site=mychevybolt.com
+$boost=3,site=mybmwi3.com
+$boost=3,site=rivianownersforum.com
+$boost=3,site=rivianforums.com
+$boost=3,site=mybclasselectricdrive.com
+$boost=3,site=myfocuselectric.com
+$boost=3,site=recurrentauto.com
+$boost=3,site=iea.org
+$boost=3,site=greentecauto.com
+$boost=3,site=azlithium.com
+$boost=3,site=legacyev.com
+$boost=3,site=secondlife-evbatteries.com
+$boost=3,site=pimpmyev.com
+$boost=3,site=priuschat.com
+$boost=3,site=priusforum.com
+$boost=3,site=priusonline.com
+$boost=3,site=prius5.com
+$boost=3,site=ioniqforum.com
+$boost=3,site=kianiroforum.com
+$boost=3,site=chevysparkforum.com
+$boost=3,site=sparktalk.com
+$boost=3,site=myoutlanderphev.com
+$boost=3,site=teslaownersonline.com
+$boost=3,site=teslamotorsclub.com
+
